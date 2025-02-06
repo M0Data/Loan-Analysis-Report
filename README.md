@@ -6,7 +6,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 ---
 
 ##  Dashboard Insights
-
+![Loan analysis dashboard]()
 ###  Loan Disbursement
 - Over **₦2.29 billion** has been disbursed, reflecting strong lending activity.
 - A **spike in early 2024** suggests increased demand or successful promotional efforts.
