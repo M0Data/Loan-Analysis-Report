@@ -13,7 +13,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Top-performing branches**: Ikotun, Ilorin, and Ibadan lead in the number of disbursed loans.
 - **Key loan officers**: Moses, Taiwo, and Babalola have facilitated the highest loan amounts.
 
- *Visualization:* [Line chart depicting the number of disbursed loans over time!](https://github.com/M0Data/Loan-Analysis-Report/blob/main/Loan%20line%20chart.PNG).
+ *Visualization:* ![Line chart depicting the number of disbursed loans over time](https://github.com/M0Data/Loan-Analysis-Report/blob/main/Loan%20line%20chart.PNG).
 
 ---
 
