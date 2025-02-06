@@ -6,7 +6,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 ---
 
 ##  Dashboard Insights
-![Loan analysis dashboard]()
+![Loan analysis dashboard](https://github.com/M0Data/Loan-Analysis-Report/blob/main/Loan%20analysis.PNG)
 ###  Loan Disbursement
 - Over **₦2.29 billion** has been disbursed, reflecting strong lending activity.
 - A **spike in early 2024** suggests increased demand or successful promotional efforts.
@@ -23,7 +23,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Top-performing loan officers**: Oyelumi, Taiwo, and Balogun excel in recovery efforts.
 - **Repayment frequency insight**: Weekly repayment schedules outperform daily and monthly schedules.
 
- *Visualization:* Line chart illustrating recovery trends across branches.
+ *Visualization:* ![Line chart illustrating recovery trends across branches]().
 
 ---
 
