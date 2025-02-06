@@ -1,19 +1,19 @@
-# 📊 Loan Analysis Report
+# Loan Analysis Report
 
 ##  Overview
 This report provides an analysis of **loan performance**, focusing on **disbursement, recovery, and outstanding balances**. It offers a comprehensive view of how branches and loan officers have contributed to these metrics, highlighting strengths and areas for improvement.
 
 ---
 
-## 📈 Dashboard Insights
+##  Dashboard Insights
 
-### 🏦 Loan Disbursement
+###  Loan Disbursement
 - Over **₦2.29 billion** has been disbursed, reflecting strong lending activity.
 - A **spike in early 2024** suggests increased demand or successful promotional efforts.
 - **Top-performing branches**: Ikotun, Ilorin, and Ibadan lead in the number of disbursed loans.
 - **Key loan officers**: Moses, Taiwo, and Babalola have facilitated the highest loan amounts.
 
-📊 *Visualization:* Line chart depicting the number of disbursed loans over time.
+ *Visualization:* Line chart depicting the number of disbursed loans over time.
 
 ---
 
@@ -23,22 +23,22 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Top-performing loan officers**: Oyelumi, Taiwo, and Balogun excel in recovery efforts.
 - **Repayment frequency insight**: Weekly repayment schedules outperform daily and monthly schedules.
 
-📊 *Visualization:* Line chart illustrating recovery trends across branches.
+ *Visualization:* Line chart illustrating recovery trends across branches.
 
 ---
 
-### 📉 Outstanding Loans
+### Outstanding Loans
 - The **total outstanding loan balance is ₦1.61 billion**, posing a financial risk.
 - **Overpayment amount**: Some customers have overpaid by ₦2.43 million due to defaults.
 - **Highest outstanding balances** are concentrated in the Challenge, PHC, and Ilorin branches.
 - **Key loan officers with high outstanding balances**: Ajayi and Esther.
 - **Repayment frequency trends**: Daily and weekly repayment schedules yield better repayment rates.
 
-📊 *Visualization:* Breakdown of outstanding balances by branch and officer.
+*Visualization:* Breakdown of outstanding balances by branch and officer.
 
 ---
 
-##  General Observations
+## General Observations
 - Loan disbursement performance is **strong**, showcasing a well-functioning lending system.
 - **Recovery rates need improvement**, especially in branches with high outstanding balances.
 - High-performing branches and officers **should be studied for best practices**.
