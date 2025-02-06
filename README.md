@@ -23,7 +23,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Top-performing loan officers**: Oyelumi, Taiwo, and Balogun excel in recovery efforts.
 - **Repayment frequency insight**: Weekly repayment schedules outperform daily and monthly schedules.
 
- *Visualization:* ![Line chart illustrating recovery trends across branches]().
+ *Visualization:* ![Line chart illustrating recovery trends across branches](https://github.com/M0Data/Loan-Analysis-Report/blob/main/Recovery%20loan%20image.PNG).
 
 ---
 
@@ -34,7 +34,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Key loan officers with high outstanding balances**: Ajayi and Esther.
 - **Repayment frequency trends**: Daily and weekly repayment schedules yield better repayment rates.
 
-*Visualization:* Breakdown of outstanding balances by branch and officer.
+*Visualization:* ![Breakdown of outstanding balances by branch and officer]().
 
 ---
 
