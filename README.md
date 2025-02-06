@@ -34,7 +34,7 @@ This report provides an analysis of **loan performance**, focusing on **disburse
 - **Key loan officers with high outstanding balances**: Ajayi and Esther.
 - **Repayment frequency trends**: Daily and weekly repayment schedules yield better repayment rates.
 
-*Visualization:* ![Breakdown of outstanding balances by branch and officer]().
+*Visualization:* ![Breakdown of outstanding balances by branch and officer](https://github.com/M0Data/Loan-Analysis-Report/blob/main/Outstanding%20loan.PNG).
 
 ---
 
