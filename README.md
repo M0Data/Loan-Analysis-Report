@@ -1,4 +1,4 @@
-# Loan Analysis Report
+# LOAN PERFOMANCE & RECOVERY ANALYSIS REPORT
 
 ##  Overview
 This report provides an analysis of **loan performance**, focusing on **disbursement, recovery, and outstanding balances**. It offers a comprehensive view of how branches and loan officers have contributed to these metrics, highlighting strengths and areas for improvement.
